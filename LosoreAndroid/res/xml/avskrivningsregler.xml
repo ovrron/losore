@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Avskrivningsregler>
+  <Avskrivningsregel id="1">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>
+    </maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>
+    </levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="10">
+    <frieÅr>2</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>6</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="11">
+    <frieÅr>2</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="12">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="13">
+    <frieÅr>4</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="14">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="16">
+    <frieÅr>2</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="17">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="18">
+    <frieÅr>4</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="19">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="2">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>
+    </levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="20">
+    <frieÅr>7</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="21">
+    <frieÅr>10</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="22">
+    <frieÅr>15</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="23">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>18</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="24">
+    <frieÅr>6</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>18</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="25">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>21</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="26">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>21</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="27">
+    <frieÅr>6</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>21</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="28">
+    <frieÅr>7</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>21</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="3">
+    <frieÅr>1</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>nei</tredjedelsregel>
+    <fastAvskrivning>20</fastAvskrivning>
+    <levetid>
+    </levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="30">
+    <frieÅr>6</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>24</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="31">
+    <frieÅr>7</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>24</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="33">
+    <frieÅr>7</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>27</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="34">
+    <frieÅr>8</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>27</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="35">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>30</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="36">
+    <frieÅr>8</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>30</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="37">
+    <frieÅr>10</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>30</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="38">
+    <frieÅr>10</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>36</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="39">
+    <frieÅr>5</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>45</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="4">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>nei</tredjedelsregel>
+    <fastAvskrivning>10</fastAvskrivning>
+    <levetid>
+    </levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="40">
+    <frieÅr>10</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>45</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="41">
+    <frieÅr>12</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>45</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="42">
+    <frieÅr>15</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>45</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="46">
+    <frieÅr>15</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>60</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="47">
+    <frieÅr>20</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>60</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="5">
+    <frieÅr>1</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>3</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="50">
+    <frieÅr>25</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>81</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="51">
+    <frieÅr>30</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>90</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="6">
+    <frieÅr>1</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>5</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="7">
+    <frieÅr>2</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>5</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="70">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>
+    </maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="75">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>5</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="76">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="77">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>15</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="78">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>18</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="79">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>21</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="8">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>5</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="80">
+    <frieÅr>
+    </frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>24</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="9">
+    <frieÅr>1</frieÅr>
+    <maksAvskrivning>80</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>6</levetid>
+  </Avskrivningsregel>
+  <Avskrivningsregel id="81">
+    <frieÅr>3</frieÅr>
+    <maksAvskrivning>81</maksAvskrivning>
+    <maksbeløp>
+    </maksbeløp>
+    <tredjedelsregel>ja</tredjedelsregel>
+    <fastAvskrivning>
+    </fastAvskrivning>
+    <levetid>10</levetid>
+  </Avskrivningsregel>
+</Avskrivningsregler>

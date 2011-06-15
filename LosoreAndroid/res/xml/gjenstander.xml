@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gjenstander>
+  <Gjenstand id="1">
+    <navn>Annet, annet</navn>
+    <kategoriId>1</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="2">
+    <navn>Jule og påskepynt mm</navn>
+    <kategoriId>1</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="3">
+    <navn>Planter mm</navn>
+    <kategoriId>1</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="4">
+    <navn>Utstyr for hus-/kjæledyr</navn>
+    <kategoriId>1</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="6">
+    <navn>Antikviteter</navn>
+    <kategoriId>2</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="8">
+    <navn>Annet AV media</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="9">
+    <navn>CD-plater</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="10">
+    <navn>DVD plater</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="11">
+    <navn>Kassetter - originale</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>10</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="12">
+    <navn>LP-plater</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>9</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="13">
+    <navn>Lydbøker (Avmedia)</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="14">
+    <navn>Videokasetter - originale</navn>
+    <kategoriId>3</kategoriId>
+    <avskrivningsregelId>9</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="16">
+    <navn>Annet utstyr</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="17">
+    <navn>Barnestol</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="18">
+    <navn>Barnevogn</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="19">
+    <navn>Brio/Duplo/Lego/Playmo</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>40</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="20">
+    <navn>Elektriske leker</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="21">
+    <navn>Gameboy, Nintendo e.l. med spill</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="22">
+    <navn>Harde leketøy</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="23">
+    <navn>Kosedyr</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="24">
+    <navn>Myke leketøy</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="25">
+    <navn>Stellebord</navn>
+    <kategoriId>4</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="27">
+    <navn>Annet bilutstyr</navn>
+    <kategoriId>5</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="28">
+    <navn>GPS navigering</navn>
+    <kategoriId>5</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="29">
+    <navn>Bilstereo</navn>
+    <kategoriId>5</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="30">
+    <navn>Lasteholder, skiboks mm</navn>
+    <kategoriId>5</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="32">
+    <navn>Annet, brunevarer</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="33">
+    <navn>Antenner/bord/ute</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="34">
+    <navn>Båndspiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="35">
+    <navn>CD spiller stasjonær</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="36">
+    <navn>DVD spiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="37">
+    <navn>Forsterker /tuner</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="38">
+    <navn>Høytalere</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="39">
+    <navn>Kassettspiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="40">
+    <navn>Minidisc spiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="41">
+    <navn>MP-3 spiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="42">
+    <navn>Parabolanlegg</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="43">
+    <navn>Platespiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="44">
+    <navn>Stereoanlegg - kombinert</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="45">
+    <navn>Stereoanlegg / radio bærbar</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="46">
+    <navn>Surroundanlegg</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="47">
+    <navn>TV, farge</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="48">
+    <navn>TV, sort/hvitt</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="49">
+    <navn>Videospiller</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="50">
+    <navn>Walkman - Discman</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="51">
+    <navn>Spillmaskin for TV</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="52">
+    <navn>Hodetelefoner</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="53">
+    <navn>I-Pod</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="54">
+    <navn>Radio- reise</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="55">
+    <navn>Radio- stasjonær</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="56">
+    <navn>TV, LCD eller Plasma</navn>
+    <kategoriId>6</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="58">
+    <navn>Annet Bøker Spill Våpen Mynt Frimerk</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="59">
+    <navn>Bøker, innbundne</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>35</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="60">
+    <navn>Bøker, pocket</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="61">
+    <navn>Bøker, skole</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="62">
+    <navn>Frimerkesamling</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="63">
+    <navn>Kart</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="64">
+    <navn>Myntsamling</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="65">
+    <navn>Tidsskrifter</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>8</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="66">
+    <navn>Tidsskrifter i samling</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="67">
+    <navn>Våpen, (i bruk)</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="68">
+    <navn>Våpen, antikke</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="69">
+    <navn>Brett/kort spill, barn</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="70">
+    <navn>Brett/kort spill, voksne</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>35</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="71">
+    <navn>Bøker, innbundne lagret</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="72">
+    <navn>Leksikon / Atlas</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>35</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="73">
+    <navn>Lydbøker</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="74">
+    <navn>Tegneserier</navn>
+    <kategoriId>7</kategoriId>
+    <avskrivningsregelId>8</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="76">
+    <navn>Annet datautstyr</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>3</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="77">
+    <navn>Modem, scanner mm</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>3</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="78">
+    <navn>PC m/skjerm, tastatur</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>3</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="79">
+    <navn>Skriver</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>3</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="80">
+    <navn>Programvare / Spill for PC</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="81">
+    <navn>Programvare / Spill for TV</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="82">
+    <navn>Bærbar PC</navn>
+    <kategoriId>8</kategoriId>
+    <avskrivningsregelId>3</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="84">
+    <navn>Annen optikk, bilder mm</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="85">
+    <navn>Album</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="86">
+    <navn>Bilder, fotografier</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="87">
+    <navn>Blitz</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="88">
+    <navn>Briller</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="89">
+    <navn>Filmduk</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="90">
+    <navn>Kamera digitalt kompakt</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="91">
+    <navn>Kamera, bag</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="92">
+    <navn>Kamera, kompakt</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="93">
+    <navn>Kamerahus, speilrefleks</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="94">
+    <navn>Kameraobjektiver</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="95">
+    <navn>Kikkerter</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>40</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="96">
+    <navn>Lysbildefremviser</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="97">
+    <navn>Mørkeromsutstyr</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="98">
+    <navn>Rammer</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="99">
+    <navn>Videokamera</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>13</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="100">
+    <navn>Videokamera digitalt</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>13</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="101">
+    <navn>Kamera digitalt- speilrefleks</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="102">
+    <navn>Solbriller</navn>
+    <kategoriId>9</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="104">
+    <navn>Annet fritidsbåtutstyr</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="105">
+    <navn>Kano, kajakk, seilbrett</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>24</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="106">
+    <navn>Plastbåter</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="107">
+    <navn>Påhengsmotor</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="108">
+    <navn>Sjøkart</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="109">
+    <navn>Tauverk (om bord)</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="110">
+    <navn>Dregg</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="111">
+    <navn>Båtshake</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="112">
+    <navn>Årer / tofter / tiljer m.m.</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="113">
+    <navn>Seil normalmateriale</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="114">
+    <navn>Seil kevlar, mylar etc</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>26</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="115">
+    <navn>Fendere</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="116">
+    <navn>Redningsvest / flytejakke m.m.</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="117">
+    <navn>Nødutstyr / signalpenn m.m.</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="118">
+    <navn>VHF</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="119">
+    <navn>Kartplotter</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="120">
+    <navn>GPS</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="121">
+    <navn>Ekkolodd</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>14</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="122">
+    <navn>Batteri</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="123">
+    <navn>Kalesje</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="124">
+    <navn>Koke / varmeapparat / kjøleskap</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="125">
+    <navn>Bensinkanne / tank</navn>
+    <kategoriId>10</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="127">
+    <navn>Annet Gull Sølv Ur</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="128">
+    <navn>Gulv/veggur</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>46</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="129">
+    <navn>Smykker</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="130">
+    <navn>Sølvplett, korpus</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>27</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="131">
+    <navn>Sølvtøy, andre gjenstander</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="132">
+    <navn>Sølvtøy, bestikk</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="133">
+    <navn>Ur, klokker(i bruk)</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="134">
+    <navn>Ur, gull</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="135">
+    <navn>Ur, sølv</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="136">
+    <navn>Bunadssølv</navn>
+    <kategoriId>11</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="138">
+    <navn>Annet hage</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="139">
+    <navn>Balkong og hagemøbler i hage</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="140">
+    <navn>Balkong - gress</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="141">
+    <navn>Blomsterkrukker/urner</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>70</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="142">
+    <navn>Gressklipper bensin/el</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="143">
+    <navn>Gressklipper manuell</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="144">
+    <navn>Hageputer</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="145">
+    <navn>Hageslange m/utst</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="146">
+    <navn>Høytrykkspyler</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="147">
+    <navn>Utegrill(emaljert m.m.)</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="148">
+    <navn>Utegrill(gass, el, rustfri)</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="149">
+    <navn>Hagemøbler plast</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="150">
+    <navn>Hagemøbler Tre/ metall</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>17</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="151">
+    <navn>Hageredskaper</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="152">
+    <navn>Hengekøye</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>17</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="153">
+    <navn>Huskestativ / Disse</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="154">
+    <navn>Parasoll</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>17</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="155">
+    <navn>Putekasse</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="156">
+    <navn>Snøfreser</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="157">
+    <navn>Snøredskap</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="158">
+    <navn>Terrassevarmer (el- gass)</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="159">
+    <navn>Trampoline</navn>
+    <kategoriId>12</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="161">
+    <navn>Andre hvitevarer</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="162">
+    <navn>Fryseboks</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="163">
+    <navn>Kjøl-/fryseskap - kombi</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="164">
+    <navn>Kjøleskap</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="165">
+    <navn>Komfyr</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="166">
+    <navn>Microbølgeovn</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="167">
+    <navn>Oppvaskmaskin</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="168">
+    <navn>Tørkeskap</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="169">
+    <navn>Tørketrommel</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="170">
+    <navn>Vaskemaskin</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="171">
+    <navn>Kjøleskap med ismaskin</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="172">
+    <navn>Vinskap (kjøle)</navn>
+    <kategoriId>13</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="174">
+    <navn>Annet kjøkkenutstyr servise</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="175">
+    <navn>Bestikk og kjøkkenredskap</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>31</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="176">
+    <navn>Drikkeglass, hverdagsbruk</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="177">
+    <navn>Drikkeglass, krystall</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>50</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="178">
+    <navn>Fat, ildfaste former, boller mm</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>33</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="179">
+    <navn>Gryter, panner og kasseroller</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>33</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="180">
+    <navn>Serviser, fint</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>50</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="181">
+    <navn>Serviser, hverdagsbruk</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="182">
+    <navn>Utstyr baking, sylting, safting mm</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>33</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="183">
+    <navn>Tuppewareprodukter</navn>
+    <kategoriId>14</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="185">
+    <navn>Andre klær, sko (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="186">
+    <navn>Bade- og morgenkåper, nattøy (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="187">
+    <navn>Badetøy (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>10</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="188">
+    <navn>Bukser</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="189">
+    <navn>Bunader (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>41</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="190">
+    <navn>Drakter, skjørt, kjoler (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="191">
+    <navn>Dresser, jakker (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="192">
+    <navn>Gensere</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="193">
+    <navn>Hansker, votter (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="194">
+    <navn>Hatter (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="195">
+    <navn>Kåper, frakker (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="196">
+    <navn>Skjorter og bluser</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="197">
+    <navn>Sko</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="198">
+    <navn>Slips, skjerf, sjal (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="199">
+    <navn>T-skjorte (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="200">
+    <navn>Undertøy, strømper mm (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="201">
+    <navn>Yttertøy (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>7</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="202">
+    <navn>Treningsdrakt</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="203">
+    <navn>Skiklær (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="204">
+    <navn>Luer</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="205">
+    <navn>Nattøy</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="206">
+    <navn>Parkdress/ kjeledress</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>75</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="207">
+    <navn>Regntøy (barn)</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>7</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="208">
+    <navn>Skistøvler alpint</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="209">
+    <navn>Skistøvler tur</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="210">
+    <navn>Sportstøy</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="211">
+    <navn>Strømpebukse</navn>
+    <kategoriId>15</kategoriId>
+    <avskrivningsregelId>75</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="213">
+    <navn>Andre klær, sko</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="214">
+    <navn>Arbeidstøy/Kjeledress</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="215">
+    <navn>Bade- og morgenkåper, nattøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="216">
+    <navn>Badetøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="217">
+    <navn>Bukser daglig bruk</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="218">
+    <navn>Bunader</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>47</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="219">
+    <navn>Drakter, skjørt, kjoler</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>24</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="220">
+    <navn>Dresser, jakker</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>24</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="221">
+    <navn>Gensere daglig bruk</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="222">
+    <navn>Hansker, votter</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="223">
+    <navn>Hatter</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="224">
+    <navn>Kåper, frakker</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="225">
+    <navn>Pelser</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>46</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="226">
+    <navn>Skjorter og bluser i daglig bruk</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>13</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="227">
+    <navn>Sko daglig bruk</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>7</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="228">
+    <navn>Sko pent</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="229">
+    <navn>Slips, skjerf, sjal</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="230">
+    <navn>T-skjorte</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="231">
+    <navn>Undertøy, strømper mm</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="232">
+    <navn>Yttertøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="233">
+    <navn>Treningstøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="234">
+    <navn>Skiklær</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="235">
+    <navn>Bukser pent</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="236">
+    <navn>Gensere pent</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="237">
+    <navn>Regntøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="238">
+    <navn>Skistøvler, alpint</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="239">
+    <navn>Skistøvler, tur</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="240">
+    <navn>Skjorter og bluser pent</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="241">
+    <navn>Sport/jakttøy</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="242">
+    <navn>Støvler/støvletter daglig bruk</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>13</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="243">
+    <navn>Alværsjakke/bukse</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>19</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="244">
+    <navn>Støvletter pent</navn>
+    <kategoriId>16</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="246">
+    <navn>Kunst Malerier mm</navn>
+    <kategoriId>17</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="248">
+    <navn>Annet matvarer</navn>
+    <kategoriId>18</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="249">
+    <navn>Drikkevarer</navn>
+    <kategoriId>18</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="250">
+    <navn>Matvarer</navn>
+    <kategoriId>18</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="252">
+    <navn>Andre instrumenter</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="253">
+    <navn>Blåseinstrumenter</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>42</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="254">
+    <navn>Gitar elektrisk</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="255">
+    <navn>Keyboard</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="256">
+    <navn>Piano</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>51</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="257">
+    <navn>Strykeinstrumenter</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>42</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="258">
+    <navn>Trommesett</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>42</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="259">
+    <navn>Gitar akustisk</navn>
+    <kategoriId>19</kategoriId>
+    <avskrivningsregelId>39</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="261">
+    <navn>Andre møbler</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="262">
+    <navn>Audio - videomøbel</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="263">
+    <navn>Bokhylle</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>34</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="264">
+    <navn>Garderobeskap, kommode</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>34</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="265">
+    <navn>Kjøkkenbord</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="266">
+    <navn>Kjøkkenstoler</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="267">
+    <navn>Krukker</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>34</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="268">
+    <navn>Lamper</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>34</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="269">
+    <navn>Lenestol</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>27</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="270">
+    <navn>Persienner</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="271">
+    <navn>Puter, tekstiler, pledd</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="272">
+    <navn>Pynte - småmøbler</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>33</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="273">
+    <navn>Pyntegjenstander</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="274">
+    <navn>Salong</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>30</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="275">
+    <navn>Salongbord</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>30</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="276">
+    <navn>Seng, nattbord barn</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="277">
+    <navn>Seng, nattbord voksen</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="278">
+    <navn>Skjenk, veggseksjon o.l.</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="279">
+    <navn>Skrivebord, barn</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="280">
+    <navn>Skrivebord, voksen</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="281">
+    <navn>Speil</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="282">
+    <navn>Spisestue, bord</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="283">
+    <navn>Spisestue, stoler</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="284">
+    <navn>Tepper, løstliggende</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="285">
+    <navn>Vaser, lysestaker mm</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>36</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="286">
+    <navn>Veggtepper</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="287">
+    <navn>Stoler</navn>
+    <kategoriId>20</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="289">
+    <navn>Annet Rengjøring Pusseartikler med mer</navn>
+    <kategoriId>21</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="291">
+    <navn>Annet sengeutstyr</navn>
+    <kategoriId>22</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="292">
+    <navn>Madrasser</navn>
+    <kategoriId>22</kategoriId>
+    <avskrivningsregelId>31</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="293">
+    <navn>Puter, dyner mm</navn>
+    <kategoriId>22</kategoriId>
+    <avskrivningsregelId>31</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="294">
+    <navn>Sengetepper</navn>
+    <kategoriId>22</kategoriId>
+    <avskrivningsregelId>31</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="295">
+    <navn>Sengetøy</navn>
+    <kategoriId>22</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="297">
+    <navn>Annet småelektrisk</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="298">
+    <navn>Brødrister, vaffeljern mm</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="299">
+    <navn>Dampvasker</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="300">
+    <navn>Kaffetraktere</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="301">
+    <navn>Miksmaster, hurtigmikser mm</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="302">
+    <navn>Mobiltelefon/lader</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>5</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="303">
+    <navn>Skjøteledninger</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="304">
+    <navn>Strykejern</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="305">
+    <navn>Støvsuger</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="306">
+    <navn>Støvsuger oppladbar</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="307">
+    <navn>Symaskin</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="308">
+    <navn>Telefon</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="309">
+    <navn>Varmeovn</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="310">
+    <navn>Ladere</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="311">
+    <navn>Smoothiemaskin</navn>
+    <kategoriId>23</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="313">
+    <navn>Annet sportsutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="314">
+    <navn>Baller</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>10</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="315">
+    <navn>Campingutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>20</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="316">
+    <navn>Dykkerutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>25</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="317">
+    <navn>Fiskeutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="318">
+    <navn>Golfutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>25</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="319">
+    <navn>Kjelke/akebrett</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="320">
+    <navn>Pulk</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="321">
+    <navn>Scateboard</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="322">
+    <navn>Ski/Staver, alpint/hopp, barn</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="323">
+    <navn>Ski/Staver, tur, barn</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="324">
+    <navn>Ski/Staver, alpint/hopp, voksen</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="325">
+    <navn>Ski/Staver, tur, voksen</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="326">
+    <navn>Skøyter, barn</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="327">
+    <navn>Skøyter, voksne</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>18</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="328">
+    <navn>Snowboard m/støvler, voksen</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>16</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="329">
+    <navn>Snowboard m/støvler, barn</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>81</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="330">
+    <navn>Sovepose/underlag</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="331">
+    <navn>Sykler</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>4</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="332">
+    <navn>Telt</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="333">
+    <navn>Biljardbord med utstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>80</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="334">
+    <navn>Hjelm, sikkerhetsutstyr</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="335">
+    <navn>Redningsvest</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="336">
+    <navn>Rulle- ski/skøyter, voksne</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="337">
+    <navn>Rulle- ski/skøyter, barn</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>81</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="338">
+    <navn>Sykkeltilhenger</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>79</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="339">
+    <navn>Våtdrakt</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>77</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="340">
+    <navn>Tørrdrakt</navn>
+    <kategoriId>24</kategoriId>
+    <avskrivningsregelId>79</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="342">
+    <navn>Andre tekstiler</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="343">
+    <navn>Bordduker</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>38</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="344">
+    <navn>Håndklær</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="345">
+    <navn>Lommetørklær</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="346">
+    <navn>Badehåndklær</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="347">
+    <navn>Gardiner</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>24</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="348">
+    <navn>Kluter</navn>
+    <kategoriId>25</kategoriId>
+    <avskrivningsregelId>76</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="350">
+    <navn>Andre toalettartikler</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="351">
+    <navn>Badevekt</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="352">
+    <navn>Barbermaskin</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="353">
+    <navn>Barbersaker</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="354">
+    <navn>Håndkleholder m.m.</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="355">
+    <navn>Dusjforheng</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="356">
+    <navn>Hårføner, krølltang mm</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="357">
+    <navn>Kosmetikk</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="358">
+    <navn>Medisiner, førstehjelpsutstyr</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="359">
+    <navn>Parafymer</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="360">
+    <navn>Såper, tannbørster, tannkrem mm</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="361">
+    <navn>Toalettmapper</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="362">
+    <navn>Hårklipper elektrisk</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="363">
+    <navn>Sakser, pinsett, neglefil mm</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="364">
+    <navn>Tannbørster elektrisk</navn>
+    <kategoriId>26</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="366">
+    <navn>Annet verktøy</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="367">
+    <navn>Garasjejekk (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>42</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="368">
+    <navn>Høvelbenk/Hyllesystem (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>37</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="369">
+    <navn>Håndverktøy (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="370">
+    <navn>Håndverktøy elektrisk (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="371">
+    <navn>Spiker, skruer m.m. (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="372">
+    <navn>Betongblander (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="373">
+    <navn>Kappsag elektrisk (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="374">
+    <navn>Luftverktøy/ luftkompressor (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="375">
+    <navn>Maler/gulvleggerverktøy div. (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="376">
+    <navn>Motorsag bensin (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="377">
+    <navn>Motorsag elektrisk (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="378">
+    <navn>Murerverktøy div. (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="379">
+    <navn>Stige, stilas, gardintrapp</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="380">
+    <navn>Sveiseapparat (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="381">
+    <navn>Trillebår (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="382">
+    <navn>Tømrerverktøy div. (privat bruk)</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>23</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="383">
+    <navn>Strømaggregat</navn>
+    <kategoriId>27</kategoriId>
+    <avskrivningsregelId>78</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="385">
+    <navn>Annet verktøy yrkesløsøre</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>2</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="386">
+    <navn>Betongblander</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="387">
+    <navn>Garasjejekk</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>22</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="388">
+    <navn>Høvelbenk/Hyllesystem</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>21</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="389">
+    <navn>Håndverktøy</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="390">
+    <navn>Håndverktøy elektrisk</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="391">
+    <navn>Kappsag elektrisk</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="392">
+    <navn>Luftverktøy/ luftkompressor</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="393">
+    <navn>Maler/gulvleggerverktøy div. </navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="394">
+    <navn>Motorsag bensin</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="395">
+    <navn>Motorsag elektrisk</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="396">
+    <navn>Murerverktøy div.</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="397">
+    <navn>Spiker, skruer m.m.</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="398">
+    <navn>Stige, gardintrapp, stilas</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="399">
+    <navn>Sveiseapparat</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="400">
+    <navn>Trillebår</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="401">
+    <navn>Tømrerverktøy div.</navn>
+    <kategoriId>28</kategoriId>
+    <avskrivningsregelId>6</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="403">
+    <navn>Andre vesker mm</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>1</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="404">
+    <navn>Bager</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="405">
+    <navn>Håndvesker, lommebøker</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="406">
+    <navn>Kofferter</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="407">
+    <navn>Mapper/Stresskoffert</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="408">
+    <navn>Ryggsekk/tursekk</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>16</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="409">
+    <navn>Skolesekker</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>9</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="410">
+    <navn>Sykkelvesker</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>11</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="411">
+    <navn>Beauty bag</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="412">
+    <navn>Bæremeis</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>28</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="413">
+    <navn>Kjølebag</navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+  <Gjenstand id="414">
+    <navn>Kjølebag elektrisk </navn>
+    <kategoriId>29</kategoriId>
+    <avskrivningsregelId>12</avskrivningsregelId>
+  </Gjenstand>
+</Gjenstander>
