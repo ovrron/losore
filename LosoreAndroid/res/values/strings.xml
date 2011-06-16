@@ -3,4 +3,7 @@
     <string name="hello">Hello World, LosoreAndroidActivity!</string>
     <string name="app_name">LosoreAndroid</string>
     <string name="losoreoversikt">Løsøreoversikt</string>
+    
+    
+    <string name="xmlFileRooms">rooms.xml</string>
 </resources>
