@@ -43,13 +43,15 @@ public class RoomChoiceActivity extends Activity {
 			TableRow row = new TableRow(this);
 			TextView t = new TextView(this);
 	        t.setText(room+":");
-	        //t.setTypeface(Typeface.BOLD);
+	        //t.setTypeface(Typeface.DEFAULT_BOLD);
+	        t.setTextSize(24);
 	        Spinner s = new Spinner(this);
 	        s.setAdapter(adapter);
 	        row.addView(t);
 	        row.addView(s);
 	        table.addView(
-	        		row,new TableLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
+	        		row,new TableLayout.LayoutParams(
+	        				LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
 		}
 		
 		return true;
